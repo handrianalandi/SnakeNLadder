@@ -1,0 +1,63 @@
+﻿  Game.cpp
+C:\Users\Hananta\source\repos\SnakeNLadder\SnakeNLadder\Game.cpp(22,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hananta\source\repos\SnakeNLadder\SnakeNLadder\Game.cpp(23,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hananta\source\repos\SnakeNLadder\SnakeNLadder\Game.cpp(39,51): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Hananta\source\repos\SnakeNLadder\SnakeNLadder\Game.cpp(39,44): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Hananta\source\repos\SnakeNLadder\SnakeNLadder\Game.cpp(49,41): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Hananta\source\repos\SnakeNLadder\SnakeNLadder\Game.cpp(57,94): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Hananta\source\repos\SnakeNLadder\SnakeNLadder\Game.cpp(57,59): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Hananta\source\repos\SnakeNLadder\SnakeNLadder\Game.cpp(58,88): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Hananta\source\repos\SnakeNLadder\SnakeNLadder\Game.cpp(58,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Hananta\source\repos\SnakeNLadder\SnakeNLadder\Game.cpp(69,64): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Hananta\source\repos\SnakeNLadder\SnakeNLadder\Game.cpp(87,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Hananta\source\repos\SnakeNLadder\SnakeNLadder\Game.cpp(87,68): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Hananta\source\repos\SnakeNLadder\SnakeNLadder\Game.cpp(195,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hananta\source\repos\SnakeNLadder\SnakeNLadder\Game.cpp(200,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hananta\source\repos\SnakeNLadder\SnakeNLadder\Game.cpp(208,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hananta\source\repos\SnakeNLadder\SnakeNLadder\Game.cpp(211,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Hananta\source\repos\SnakeNLadder\SnakeNLadder\Game.cpp(213,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  SnakeNLadder.vcxproj -> C:\Users\Hananta\source\repos\SnakeNLadder\Debug\SnakeNLadder.exe
